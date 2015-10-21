@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=LXDE Contol Center
+Name=LinuxGT Contol Center
 GenericName=System Settings
 Icon=gnome-desktop-config
 Exec=control_panel
