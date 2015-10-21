@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Install LinuxGT
+Comment=Application Menu
+Exec=lxterminal -e sudo /abif-master/abif
+Icon=/usr/share/icons/Numix-Circle/scalable/apps/distributor-logo-archlinux.svg
+Type=Application
+Categories=GNOME;GTK;Utility;
+StartupNotify=false
+NoDisplay=false
